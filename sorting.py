@@ -1,7 +1,6 @@
 # File: sorting.py
 # Description: test sorting algorithms
 # Student's Name: Alex Collins
-# Student's UT EID: aac3665
 # Course Name: CS 313E
 # Unique Number: 51470
 
