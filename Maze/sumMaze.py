@@ -1,5 +1,5 @@
 #  File: sumMaze.py
-#  Description: Solve a maze without reaching the target number
+#  Description: Solve maze staying below the target sum
 #  Student's Name: Alexandria Collins
 #  Student's UT EID: aac3665
 #  Course Name: CS 313E
