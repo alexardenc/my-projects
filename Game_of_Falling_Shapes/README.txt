@@ -1,5 +1,5 @@
-README
-Below are the steps to run the program.
+This program runs on Processing 3.4. Below are the steps to run the program.
+
 1. Click the group_4_assignment7.pde program.
 
 2. Click the play button and click the canvas to allow movement.

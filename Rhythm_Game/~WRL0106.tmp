@@ -1,0 +1,16 @@
+group_KAE_finalprojectProgressReport.pde README
+
+Follow the steps below to run the program:
+1. Click on the file group_KAE_finalprojectProgressReport.pde to open it.
+
+2. Press the play button.
+
+3. Use the mouse to click on any of the main menu buttons. The "How to Play" button
+will take you to the Instructions screen.
+
+4. Click "Start" to begin the game. Note that the beat timer, enemy movement, and board
+color changes begin at the first user input of any of the keys listed in the instructions.
+Because of this, is important to begin on the downbeat of the music. (NOTE: Since it is difficult
+to find the exact length in milliseconds of each beat interval, the music and beat timer
+sometimes go out of sync slightly. The user is given the opportunity to reset the beat every
+64 downbeats if they are losing health despite giving inputs on the correct beat.)
